@@ -1,0 +1,15 @@
+[submodule "smali/cisco-anyconnect-android"]
+	path = smali/cisco-anyconnect-android
+	url = https://github.com/Team-Ariyae/cisco-anyconnect-android.git
+[submodule "Revers"]
+	path = Revers
+	url = https://github.com/Team-Ariyae/cisco-anyconnect-android-current.git
+[submodule "Android/Getter"]
+	path = Android/Getter
+	url = https://github.com/Team-Ariyae/cisco-anyconnect-android-getter.git
+[submodule "Android/Sender"]
+	path = Android/Sender
+	url = https://github.com/Team-Ariyae/cisco-anyconnect-android-sender.git
+[submodule "Android/OpenConnectTest"]
+	path = Android/OpenConnectTest
+	url = https://github.com/Team-Ariyae/cisco-anyconnect-android-openconnect.git
